@@ -1,3 +1,5 @@
+# Note: This repo is deprecated and moved to the [central CLARIAH PLUS repository](https://github.com/CLARIAH/clariah-plus)!
+
 # CLARIAH Interest Group on Text
 
 This repository is intended to organize the work, output and documentation of the CLARIAH Interest Group (IG) on Text
